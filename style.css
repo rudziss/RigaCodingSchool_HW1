@@ -11,3 +11,6 @@ h2 {
     color: black;
     font-weight: bolder;
 }
+.boxed {
+    border: 8px solid green;
+}
