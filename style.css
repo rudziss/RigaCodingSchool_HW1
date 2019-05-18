@@ -7,6 +7,7 @@ header {
 h2 {
     color: green;
 }
-p {
-    color: yellow;
+#first {
+    color: black;
+    font-weight: bolder;
 }
