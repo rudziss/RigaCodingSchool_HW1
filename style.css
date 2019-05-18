@@ -1,3 +1,12 @@
 body {
-    background-image:url("savanna.jpg");
+    background-color: lightblue;
+}
+header {
+    color: red;
+}
+h2 {
+    color: green;
+}
+p {
+    color: yellow;
 }
