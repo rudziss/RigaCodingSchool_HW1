@@ -17,3 +17,6 @@ header {
 #title {
     align: middle;
 }
+.first {
+    align-content: center;
+}
