@@ -1,11 +1,8 @@
 body {
-    background-color: lightblue;
+    background-color: lightblue;   
 }
 header {
     color: red;
-}
-h2 {
-    color: green;
 }
 #first {
     color: black;
@@ -13,4 +10,10 @@ h2 {
 }
 .boxed {
     border: 8px solid green;
+}
+#otrakaste {
+    border: 8px solid red;
+}
+#title {
+    align: middle;
 }
