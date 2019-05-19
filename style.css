@@ -15,3 +15,15 @@ header {
     color: brown;
     font-size: 25px;
 }
+#second {
+    width: 250px;
+    border: 15px solid green;
+    padding: 25px;
+    margin: 15px;
+}
+#fourth {
+    width: 250px;
+    border: 5.5px solid yellowgreen;
+    padding: 15px;
+    margin: 10px;
+}
