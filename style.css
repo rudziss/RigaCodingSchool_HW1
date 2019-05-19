@@ -1,22 +1,17 @@
 body {
-    background-color: lightblue;   
+    background-color: rgba(78, 47, 6, 0.685);   
 }
 header {
     color: red;
 }
 #first {
     color: black;
-    font-weight: bolder;
-}
-.boxed {
-    border: 8px solid green;
-}
-#otrakaste {
-    border: 8px solid red;
+    font-size: 25px;
 }
 #title {
     align: middle;
 }
-.first {
-    align-content: center;
+#third {
+    color: brown;
+    font-size: 25px;
 }
